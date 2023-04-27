@@ -1,1 +1,1 @@
-# pandas-challenge
+# pandas-challenge was completed in partnership with Jo Ann Millegan.  
